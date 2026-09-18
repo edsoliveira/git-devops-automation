@@ -10,3 +10,4 @@ Este curso é 100% prático e direto ao ponto, focado em preparar profissionais 
 - Visão geral do curso
 - Pré-requisitos de instalação (Git, Docker, AWS CLI, Azure CLI, Terraform, Ansible, kubectl, etc.)
 - Guia de setup para Ubuntu, WSL2 e macOS
+- E outras coisinhas mais
